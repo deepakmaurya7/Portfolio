@@ -37,7 +37,17 @@ To run the portfolio website locally:
 1. Clone this repository:
 <br>
 Link:- ("https://deepakmaurya7.github.io/portfolio/")
+<br>
 2. Navigate to the project directory:
 <br>
 cd portfolio
+<br>
+3. Install the required dependencies:
+<br>
+npm install
+<br>
+4. Start the development server:
+<br>
+npm start
+
 
