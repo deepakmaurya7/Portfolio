@@ -5,7 +5,7 @@ This is my personal portfolio website, built with React.js and Framer Motion. It
 
 # Table of Contents
 
-*Live Demo
+* Live Demo
 * Features
 * Technologies Used
 * Installation
