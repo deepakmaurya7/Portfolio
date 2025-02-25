@@ -12,7 +12,7 @@ Live Demo
 * Contributing
 * Contact
 
-# Live Demo****
+# Live Demo
 Check out the live version of the website here:
 
 # Features
@@ -23,3 +23,5 @@ Check out the live version of the website here:
 * Project showcase with links to live demos and source code
 * Contact form for visitors to get in touch
 * Responsive design for both desktop and mobile views
+
+# Technologies Used
