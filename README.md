@@ -37,4 +37,4 @@ To run the portfolio website locally:
 
 1. Clone this repository:
 2. <br>
-{https://deepakmaurya7.github.io/portfolio/}
+         ("https://deepakmaurya7.github.io/portfolio/")
