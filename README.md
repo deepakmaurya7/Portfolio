@@ -25,3 +25,9 @@ Check out the live version of the website here:
 * Responsive design for both desktop and mobile views
 
 # Technologies Used
+
+* React.js - Frontend library for building UI components.
+* Framer Motion - For animations and smooth transitions.
+* React Icons - For using icons in the skills section and buttons.
+* CSS - For styling and responsive design.
+* EmailJS - (optional) For handling contact form submissions.
