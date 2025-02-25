@@ -50,5 +50,17 @@ npm install
 4. Start the development server:
 <br>
 npm start
+<br>
 
+The website should now be running on http://localhost:3000/.
+
+
+
+
+# Contributing
+If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Any suggestions or improvements are welcome!
+
+# Contact
+For any questions or collaboration inquiries, you can reach me at:
+* Email: deepak965147@gmail.com
 
