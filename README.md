@@ -36,7 +36,6 @@ Check out the live version of the website here:
 To run the portfolio website locally:
 <br>
 1. Clone this repository:
-<br>
 bhttps://deepakmaurya7.github.io/portfolio/
 <br>
 Navigate to the project directory:
