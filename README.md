@@ -16,7 +16,7 @@ Contact
 Check out the live version of the website here:
 
 # Features
-Interactive and animated hero section
+#Interactive and animated hero section
 About me section with a detailed bio
 Skills section with dynamic progress bars for various technical skills
 Project showcase with links to live demos and source code
