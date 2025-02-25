@@ -31,3 +31,8 @@ Check out the live version of the website here:
 * React Icons - For using icons in the skills section and buttons.
 * CSS - For styling and responsive design.
 * EmailJS - (optional) For handling contact form submissions.
+
+# Installation
+To run the portfolio website locally:
+
+1. Clone this repository:
