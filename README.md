@@ -70,5 +70,5 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 For any questions or collaboration inquiries, you can reach me at:
 
-- Email: [shiveejaiswal25@gmail.com](mailto:deepak965147@gmail.com)
+- Email: [deepak965147@gmail.com](mailto:deepak965147@gmail.com)
 
